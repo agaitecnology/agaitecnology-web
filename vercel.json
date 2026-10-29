@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/pesquisa",
+      "destination": "https://pesquisa-ultima-milha.vercel.app",
+      "permanent": false
+    }
+  ]
+}
